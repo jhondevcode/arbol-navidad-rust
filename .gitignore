@@ -1,0 +1,8 @@
+# Binarios de rust
+/target
+
+# Configuraciones de vscode
+.vscode
+
+# Configuraciones de IDEA
+.idea
